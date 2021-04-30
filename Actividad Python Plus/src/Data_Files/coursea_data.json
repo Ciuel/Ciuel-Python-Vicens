@@ -1,0 +1,92 @@
+[
+    {
+        "": "789",
+        "course_title": "El Abogado del Futuro: Legaltech y la Transformaci\u00f3n Digital del Derecho",
+        "course_organization": "Universidad Austral",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "5",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "1.5k"
+    },
+    {
+        "": "401",
+        "course_title": "Infectious Disease Modelling",
+        "course_organization": "Imperial College London",
+        "course_Certificate_type": "SPECIALIZATION",
+        "course_rating": "5",
+        "course_difficulty": "Intermediate",
+        "course_students_enrolled": "1.6k"
+    },
+    {
+        "": "846",
+        "course_title": "Agile \u0438 Scrum \u0432 \u0440\u0430\u0431\u043e\u0442\u0435 \u043d\u0430\u0434 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438 \u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430\u043c\u0438",
+        "course_organization": "ScrumTrek",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "12k"
+    },
+    {
+        "": "322",
+        "course_title": "American Contract Law I",
+        "course_organization": "Yale University",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "18k"
+    },
+    {
+        "": "551",
+        "course_title": "Aprendiendo a aprender: Poderosas herramientas mentales con las que podr\u00e1s dominar temas dif\u00edciles (Learning How to Learn)",
+        "course_organization": "University of California San Diego",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "180k"
+    },
+    {
+        "": "56",
+        "course_title": "Arizona State University TESOL",
+        "course_organization": "Arizona State University",
+        "course_Certificate_type": "PROFESSIONAL CERTIFICATE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "150k"
+    },
+    {
+        "": "877",
+        "course_title": "Aspectos b\u00e1sicos de la planificaci\u00f3n y la gesti\u00f3n de proyectos",
+        "course_organization": "University of Virginia",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "10k"
+    },
+    {
+        "": "106",
+        "course_title": "Become a CBRS Certified Professional Installer by Google",
+        "course_organization": "Google - Spectrum Sharing",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Mixed",
+        "course_students_enrolled": "210k"
+    },
+    {
+        "": "645",
+        "course_title": "Boosting Creativity for Innovation",
+        "course_organization": "HEC Paris",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "9.5k"
+    },
+    {
+        "": "72",
+        "course_title": "Brand Management: Aligning Business, Brand and Behaviour",
+        "course_organization": "London Business School",
+        "course_Certificate_type": "COURSE",
+        "course_rating": "4.9",
+        "course_difficulty": "Beginner",
+        "course_students_enrolled": "57k"
+    }
+]

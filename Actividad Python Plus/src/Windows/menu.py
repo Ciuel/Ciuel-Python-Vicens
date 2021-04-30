@@ -2,7 +2,7 @@ import PySimpleGUI as sg
 
 WINDOW_FONT_SIZE = 15
 WINDOW_FONT = "Helvetica"
-BUTTON_SIZE = (25, 2)
+BUTTON_SIZE = (28, 2)
 
 
 def build():
