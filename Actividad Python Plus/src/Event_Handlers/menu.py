@@ -26,7 +26,7 @@ def coursea_manipulation(info):
     csvreader=csv.DictReader(info)
     courses_list=list(csvreader)
     courses_list.sort(key=lambda x: x["course_rating"], reverse=True)
-    return courses_list[:10]
+    return list(map(lambda x: {"course_title": x["course_title"],"course_rating":x["course_rating"]}, courses_list[:10]))
 
 
 def coursea_press():
@@ -80,7 +80,12 @@ def happy_manipulation(info):
     csvreader = csv.DictReader(info)
     happy_list = list(csvreader)
     happy_list.sort(key=lambda x: x["Generosity"], reverse=True)
-    return happy_list[:10]
+    return list(
+        map(
+            lambda x: {
+                "Country or region": x["Country or region"],
+                "Generosity": x["Generosity"]
+            }, happy_list[:10]))
 
 
 def happy_press():
