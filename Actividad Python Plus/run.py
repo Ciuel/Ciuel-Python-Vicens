@@ -3,6 +3,8 @@ from src.Components import menu
 
 
 def main():
+    """Inicia el menu
+    """    
     menu.start()
 
 
