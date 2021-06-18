@@ -22,6 +22,7 @@ class Pila:
             return None
 
     @property
+    @body.getter
     def body(self):
         """getter del body
 

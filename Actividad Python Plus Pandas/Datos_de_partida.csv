@@ -1,0 +1,958 @@
+Tiempo,Partida,Cantidad de fichas,Nombre de evento,Nick,Genero,Edad,Estado,Palabra,Nivel,Cantidad de coincidencias,Puntos
+1623616467,1,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623616469,1,16,intento,2,Mujer,2,ok,Michelangelo,1,2,200
+1623616469,1,16,intento,2,Mujer,2,fallo,Raphael,1,2,170
+1623616471,1,16,intento,2,Mujer,2,fallo,Paul Gauguin,1,2,140
+1623616472,1,16,intento,2,Mujer,2,fallo,Paul Gauguin,1,2,110
+1623616474,1,16,intento,2,Mujer,2,ok,Paul Gauguin,1,2,310
+1623616476,1,16,intento,2,Mujer,2,fallo,Joan Miro,1,2,280
+1623616477,1,16,intento,2,Mujer,2,fallo,Paul Klee,1,2,250
+1623616478,1,16,intento,2,Mujer,2,fallo,Paul Klee,1,2,220
+1623616479,1,16,intento,2,Mujer,2,ok,Andy Warhol,1,2,420
+1623616480,1,16,intento,2,Mujer,2,ok,Paul Klee,1,2,620
+1623616481,1,16,intento,2,Mujer,2,fallo,Piet Mondrian,1,2,590
+1623616483,1,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,560
+1623616485,1,16,intento,2,Mujer,2,fallo,Piet Mondrian,1,2,530
+1623616486,1,16,intento,2,Mujer,2,ok,Raphael,1,2,730
+1623616488,1,16,intento,2,Mujer,2,fallo,Joan Miro,1,2,700
+1623616489,1,16,intento,2,Mujer,2,ok,Joan Miro,1,2,900
+1623616490,1,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,870
+1623616493,1,16,intento,2,Mujer,2,ok,Jackson Pollock,1,2,1070
+1623616527,1,16,fin,2,Mujer,2,timeout,,1,2,1070
+1623616559,2,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623616619,2,16,fin,2,Mujer,2,timeout,,1,2,0
+1623617521,3,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623617523,3,16,intento,2,Mujer,2,ok,Raphael,1,2,200
+1623617524,3,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,170
+1623617525,3,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,140
+1623617527,3,16,intento,2,Mujer,2,ok,Jackson Pollock,1,2,340
+1623617528,3,16,intento,2,Mujer,2,ok,Joan Miro,1,2,540
+1623617528,3,16,intento,2,Mujer,2,ok,Piet Mondrian,1,2,740
+1623617530,3,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,710
+1623617532,3,16,fin,2,Mujer,2,timeout,,1,2,710
+1623617549,4,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623617552,4,16,intento,2,Mujer,2,ok,Piet Mondrian,1,2,200
+1623617552,4,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,170
+1623617554,4,16,intento,2,Mujer,2,fallo,Jackson Pollock,1,2,140
+1623617555,4,16,intento,2,Mujer,2,ok,Jackson Pollock,1,2,340
+1623617556,4,16,intento,2,Mujer,2,ok,Joan Miro,1,2,540
+1623617558,4,16,intento,2,Mujer,2,fallo,Andy Warhol,1,2,510
+1623617559,4,16,intento,2,Mujer,2,fallo,Raphael,1,2,480
+1623617560,4,16,intento,2,Mujer,2,ok,Andy Warhol,1,2,680
+1623617562,4,16,intento,2,Mujer,2,fallo,Paul Gauguin,1,2,650
+1623617563,4,16,intento,2,Mujer,2,ok,Paul Gauguin,1,2,850
+1623617565,4,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,820
+1623617566,4,16,intento,2,Mujer,2,ok,Raphael,1,2,1020
+1623617567,4,16,intento,2,Mujer,2,ok,Paul Klee,1,2,1220
+1623617568,4,16,intento,2,Mujer,2,ok,Michelangelo,1,2,1420
+1623617569,4,16,fin,2,Mujer,2,finalizada,,1,2,2650
+1623617600,5,30,inicio_partida,2,Mujer,2,,,2,3,0
+1623617603,5,30,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,2,3,300
+1623617604,5,30,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,3,270
+1623617605,5,30,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,3,240
+1623617606,5,30,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,3,210
+1623617609,5,30,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,3,180
+1623617610,5,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,150
+1623617612,5,30,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,3,120
+1623617614,5,30,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,3,90
+1623617616,5,30,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,3,60
+1623617619,5,30,intento,2,Mujer,2,ok,Obra_Georges Seurat.png,2,3,360
+1623617621,5,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,330
+1623617622,5,30,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,3,300
+1623617624,5,30,intento,2,Mujer,2,ok,Obra_Henri Rousseau.png,2,3,600
+1623617625,5,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,570
+1623617627,5,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,540
+1623617628,5,30,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,3,510
+1623617630,5,30,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,3,480
+1623617632,5,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,450
+1623617634,5,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,420
+1623617636,5,30,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,2,3,720
+1623617639,5,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,690
+1623617642,5,30,intento,2,Mujer,2,ok,Obra_Michelangelo.png,2,3,990
+1623617645,5,30,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,3,960
+1623617646,5,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,930
+1623617648,5,30,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,3,900
+1623617650,5,30,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,3,870
+1623617652,5,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,840
+1623617655,5,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,810
+1623617658,5,30,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,2,3,1110
+1623617661,5,30,fin,2,Mujer,2,timeout,,2,3,1110
+1623617666,6,30,inicio_partida,2,Mujer,2,,,2,3,0
+1623617668,6,30,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,2,3,300
+1623617670,6,30,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,3,270
+1623617672,6,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,240
+1623617673,6,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,210
+1623617676,6,30,intento,2,Mujer,2,ok,Obra_Joan Miro.png,2,3,510
+1623617678,6,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,480
+1623617679,6,30,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,3,450
+1623617681,6,30,intento,2,Mujer,2,fallo,Obra_Andy Warhol.png,2,3,420
+1623617684,6,30,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,3,390
+1623617687,6,30,intento,2,Mujer,2,ok,Obra_Michelangelo.png,2,3,690
+1623617688,6,30,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,3,660
+1623617690,6,30,intento,2,Mujer,2,ok,Obra_Georges Seurat.png,2,3,960
+1623617692,6,30,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,3,930
+1623617693,6,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,900
+1623617696,6,30,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,3,870
+1623617698,6,30,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,2,3,1170
+1623617704,6,30,intento,2,Mujer,2,ok,Obra_Henri Rousseau.png,2,3,1470
+1623617705,6,30,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,3,1440
+1623617706,6,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,1410
+1623617708,6,30,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,3,1380
+1623617711,6,30,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,2,3,1680
+1623617713,6,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,1650
+1623617716,6,30,intento,2,Mujer,2,ok,Obra_Paul Klee.png,2,3,1950
+1623617718,6,30,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,3,1920
+1623617720,6,30,intento,2,Mujer,2,ok,Obra_Paul Gauguin.png,2,3,2220
+1623617722,6,30,intento,2,Mujer,2,ok,Obra_Raphael.png,2,3,2520
+1623617722,6,30,fin,2,Mujer,2,finalizada,,2,3,6270
+1623617735,7,24,inicio_partida,2,Mujer,2,,,2,2,0
+1623617737,7,24,intento,2,Mujer,2,ok,Obra_Paul Cezanne.png,2,2,200
+1623617738,7,24,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,2,170
+1623617739,7,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,140
+1623617740,7,24,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,2,110
+1623617742,7,24,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,2,80
+1623617744,7,24,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,2,50
+1623617746,7,24,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,2,20
+1623617747,7,24,intento,2,Mujer,2,ok,Obra_Michelangelo.png,2,2,220
+1623617749,7,24,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,2,2,420
+1623617752,7,24,intento,2,Mujer,2,ok,Obra_Henri Rousseau.png,2,2,620
+1623617752,7,24,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,2,590
+1623617754,7,24,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,2,560
+1623617755,7,24,intento,2,Mujer,2,ok,Obra_Georges Seurat.png,2,2,760
+1623617756,7,24,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,2,730
+1623617758,7,24,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,2,2,930
+1623617760,7,24,intento,2,Mujer,2,ok,Obra_Eugene Delacroix.png,2,2,1130
+1623617761,7,24,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,2,1100
+1623617764,7,24,intento,2,Mujer,2,ok,Obra_Paul Klee.png,2,2,1300
+1623617765,7,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,1270
+1623617767,7,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,1240
+1623617769,7,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,1210
+1623617771,7,24,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,2,1180
+1623617773,7,24,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,2,2,1380
+1623617774,7,24,intento,2,Mujer,2,ok,Obra_Raphael.png,2,2,1580
+1623617775,7,24,fin,2,Mujer,2,timeout,,2,2,1580
+1623617779,8,24,inicio_partida,2,Mujer,2,,,2,2,0
+1623617781,8,24,intento,2,Mujer,2,ok,Obra_Paul Klee.png,2,2,200
+1623617782,8,24,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,2,170
+1623617784,8,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,140
+1623617786,8,24,intento,2,Mujer,2,ok,Obra_Michelangelo.png,2,2,340
+1623617787,8,24,intento,2,Mujer,2,fallo,Obra_Eugene Delacroix.png,2,2,310
+1623617788,8,24,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,2,280
+1623617790,8,24,intento,2,Mujer,2,fallo,Obra_Eugene Delacroix.png,2,2,250
+1623617792,8,24,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,2,220
+1623617794,8,24,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,2,2,420
+1623617796,8,24,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,2,390
+1623617797,8,24,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,2,360
+1623617798,8,24,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,2,330
+1623617800,8,24,intento,2,Mujer,2,fallo,Obra_Eugene Delacroix.png,2,2,300
+1623617801,8,24,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,2,270
+1623617803,8,24,intento,2,Mujer,2,ok,Obra_Paul Cezanne.png,2,2,470
+1623617804,8,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,440
+1623617806,8,24,intento,2,Mujer,2,ok,Obra_Raphael.png,2,2,640
+1623617807,8,24,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,2,610
+1623617809,8,24,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,2,2,810
+1623617810,8,24,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,2,780
+1623617812,8,24,intento,2,Mujer,2,ok,Obra_Georges Seurat.png,2,2,980
+1623617814,8,24,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,2,2,950
+1623617815,8,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,920
+1623617817,8,24,intento,2,Mujer,2,fallo,Obra_Henri Rousseau.png,2,2,890
+1623617819,8,24,intento,2,Mujer,2,fallo,Obra_Eugene Delacroix.png,2,2,860
+1623617820,8,24,fin,2,Mujer,2,timeout,,2,2,860
+1623617824,9,24,inicio_partida,2,Mujer,2,,,2,2,0
+1623617826,9,24,intento,2,Mujer,2,ok,Obra_Paul Gauguin.png,2,2,200
+1623617827,9,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,170
+1623617828,9,24,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,2,2,140
+1623617830,9,24,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,2,2,340
+1623617831,9,24,intento,2,Mujer,2,fallo,Obra_Paul Cezanne.png,2,2,310
+1623617833,9,24,intento,2,Mujer,2,fallo,Obra_Andy Warhol.png,2,2,280
+1623617834,9,24,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,2,2,480
+1623617835,9,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,450
+1623617837,9,24,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,2,420
+1623617838,9,24,intento,2,Mujer,2,fallo,Obra_Paul Cezanne.png,2,2,390
+1623617840,9,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,360
+1623617842,9,24,intento,2,Mujer,2,fallo,Obra_Georges Seurat.png,2,2,330
+1623617843,9,24,intento,2,Mujer,2,fallo,Obra_Raphael.png,2,2,300
+1623617845,9,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,270
+1623617847,9,24,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,2,2,240
+1623617850,9,24,intento,2,Mujer,2,ok,Obra_Henri Rousseau.png,2,2,440
+1623617851,9,24,intento,2,Mujer,2,ok,Obra_Paul Klee.png,2,2,640
+1623617853,9,24,intento,2,Mujer,2,fallo,Obra_Paul Cezanne.png,2,2,610
+1623617855,9,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,580
+1623617857,9,24,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,2,2,550
+1623617858,9,24,intento,2,Mujer,2,fallo,Obra_Michelangelo.png,2,2,520
+1623617859,9,24,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,2,2,720
+1623617861,9,24,intento,2,Mujer,2,ok,Obra_Georges Seurat.png,2,2,920
+1623617862,9,24,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,2,2,890
+1623617864,9,24,fin,2,Mujer,2,timeout,,2,2,890
+1623617878,10,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623617880,10,16,intento,2,Mujer,2,ok,Obra_Michelangelo.png,1,2,200
+1623617880,10,16,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,1,2,170
+1623617882,10,16,intento,2,Mujer,2,fallo,Obra_Andy Warhol.png,1,2,140
+1623617884,10,16,intento,2,Mujer,2,ok,Obra_Raphael.png,1,2,340
+1623617885,10,16,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,1,2,310
+1623617887,10,16,intento,2,Mujer,2,fallo,Obra_Andy Warhol.png,1,2,280
+1623617889,10,16,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,1,2,250
+1623617892,10,16,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,1,2,450
+1623617893,10,16,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,1,2,420
+1623617895,10,16,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,1,2,620
+1623617896,10,16,intento,2,Mujer,2,ok,Obra_Paul Gauguin.png,1,2,820
+1623617898,10,16,intento,2,Mujer,2,fallo,Obra_Paul Klee.png,1,2,790
+1623617899,10,16,fin,2,Mujer,2,timeout,,1,2,790
+1623617909,11,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623617910,11,16,intento,2,Mujer,2,ok,Obra_Raphael.png,1,2,200
+1623617911,11,16,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,1,2,170
+1623617913,11,16,intento,2,Mujer,2,fallo,Obra_Andy Warhol.png,1,2,140
+1623617915,11,16,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,1,2,340
+1623617916,11,16,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,1,2,310
+1623617917,11,16,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,1,2,280
+1623617919,11,16,intento,2,Mujer,2,ok,Obra_Paul Klee.png,1,2,480
+1623617920,11,16,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,1,2,680
+1623617921,11,16,intento,2,Mujer,2,fallo,Obra_Jackson Pollock.png,1,2,650
+1623617923,11,16,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,1,2,620
+1623617924,11,16,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,1,2,820
+1623617926,11,16,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,1,2,790
+1623617927,11,16,intento,2,Mujer,2,ok,Obra_Joan Miro.png,1,2,990
+1623617928,11,16,intento,2,Mujer,2,ok,Obra_Paul Gauguin.png,1,2,1190
+1623617930,11,16,fin,2,Mujer,2,timeout,,1,2,1190
+1623617963,12,16,inicio_partida,3,Hombre,6,,,1,2,0
+1623617965,12,16,intento,3,Hombre,6,ok,Obra_Jackson Pollock.png,1,2,200
+1623617966,12,16,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,1,2,170
+1623617967,12,16,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,1,2,140
+1623617969,12,16,intento,3,Hombre,6,ok,Obra_Michelangelo.png,1,2,340
+1623617970,12,16,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,1,2,310
+1623617971,12,16,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,1,2,280
+1623617973,12,16,intento,3,Hombre,6,ok,Obra_Andy Warhol.png,1,2,480
+1623617974,12,16,intento,3,Hombre,6,ok,Obra_Paul Gauguin.png,1,2,680
+1623617975,12,16,intento,3,Hombre,6,fallo,Obra_Raphael.png,1,2,650
+1623617977,12,16,intento,3,Hombre,6,ok,Obra_Raphael.png,1,2,850
+1623617978,12,16,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,1,2,820
+1623617980,12,16,intento,3,Hombre,6,ok,Obra_Paul Klee.png,1,2,1020
+1623617981,12,16,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,1,2,990
+1623617982,12,16,intento,3,Hombre,6,ok,Obra_Joan Miro.png,1,2,1190
+1623617983,12,16,intento,3,Hombre,6,ok,Obra_Piet Mondrian.png,1,2,1390
+1623617984,12,16,fin,3,Hombre,6,finalizada,,1,2,2590
+1623617992,13,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623617994,13,24,intento,3,Hombre,6,ok,Obra_Paul Cezanne.png,2,2,200
+1623617995,13,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,170
+1623617996,13,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,140
+1623617997,13,24,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,2,2,110
+1623617999,13,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,80
+1623618001,13,24,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,2,2,50
+1623618004,13,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,20
+1623618006,13,24,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,2,2,0
+1623618007,13,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,0
+1623618009,13,24,intento,3,Hombre,6,ok,Obra_Piet Mondrian.png,2,2,200
+1623618011,13,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,170
+1623618013,13,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,140
+1623618015,13,24,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,2,2,110
+1623618016,13,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,80
+1623618018,13,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,50
+1623618020,13,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,20
+1623618021,13,24,intento,3,Hombre,6,ok,Obra_Joan Miro.png,2,2,220
+1623618023,13,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,190
+1623618025,13,24,intento,3,Hombre,6,ok,Obra_Raphael.png,2,2,390
+1623618027,13,24,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,2,2,360
+1623618028,13,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,330
+1623618029,13,24,intento,3,Hombre,6,ok,Obra_Paul Klee.png,2,2,530
+1623618031,13,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,500
+1623618032,13,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,470
+1623618034,13,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,440
+1623618036,13,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,410
+1623618038,13,24,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,2,2,380
+1623618040,13,24,intento,3,Hombre,6,ok,Obra_Paul Gauguin.png,2,2,580
+1623618042,13,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,550
+1623618044,13,24,intento,3,Hombre,6,fallo,Obra_Henri Rousseau.png,2,2,520
+1623618046,13,24,intento,3,Hombre,6,ok,Obra_Henri Rousseau.png,2,2,720
+1623618047,13,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,690
+1623618049,13,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,660
+1623618050,13,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,630
+1623618052,13,24,intento,3,Hombre,6,ok,Obra_Jackson Pollock.png,2,2,830
+1623618053,13,24,fin,3,Hombre,6,timeout,,2,2,830
+1623618057,14,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623618059,14,24,intento,3,Hombre,6,ok,Obra_Henri Rousseau.png,2,2,200
+1623618059,14,24,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,2,2,170
+1623618061,14,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,140
+1623618063,14,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,110
+1623618064,14,24,intento,3,Hombre,6,ok,Obra_Jackson Pollock.png,2,2,310
+1623618065,14,24,intento,3,Hombre,6,fallo,Obra_Raphael.png,2,2,280
+1623618066,14,24,intento,3,Hombre,6,fallo,Obra_Paul Cezanne.png,2,2,250
+1623618067,14,24,intento,3,Hombre,6,fallo,Obra_Raphael.png,2,2,220
+1623618069,14,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,190
+1623618071,14,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,160
+1623618073,14,24,intento,3,Hombre,6,ok,Obra_Joan Miro.png,2,2,360
+1623618074,14,24,intento,3,Hombre,6,fallo,Obra_Paul Cezanne.png,2,2,330
+1623618076,14,24,intento,3,Hombre,6,ok,Obra_Paul Cezanne.png,2,2,530
+1623618077,14,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,500
+1623618079,14,24,intento,3,Hombre,6,ok,Obra_Paul Gauguin.png,2,2,700
+1623618080,14,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,670
+1623618082,14,24,intento,3,Hombre,6,fallo,Obra_Raphael.png,2,2,640
+1623618084,14,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,610
+1623618086,14,24,intento,3,Hombre,6,fallo,Obra_Raphael.png,2,2,580
+1623618088,14,24,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,2,2,550
+1623618089,14,24,intento,3,Hombre,6,ok,Obra_Andy Warhol.png,2,2,750
+1623618090,14,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,720
+1623618092,14,24,intento,3,Hombre,6,ok,Obra_Michelangelo.png,2,2,920
+1623618093,14,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,890
+1623618094,14,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,860
+1623618096,14,24,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,2,2,830
+1623618099,14,24,intento,3,Hombre,6,ok,Obra_Raphael.png,2,2,1030
+1623618100,14,24,intento,3,Hombre,6,ok,Obra_Eugene Delacroix.png,2,2,1230
+1623618101,14,24,intento,3,Hombre,6,ok,Obra_Piet Mondrian.png,2,2,1430
+1623618103,14,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,1400
+1623618104,14,24,intento,3,Hombre,6,ok,Obra_Paul Klee.png,2,2,1600
+1623618105,14,24,intento,3,Hombre,6,ok,Obra_Georges Seurat.png,2,2,1800
+1623618105,14,24,fin,3,Hombre,6,finalizada,,2,2,3960
+1623618111,15,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623618114,15,24,fin,3,Hombre,6,abandonada,,2,2,0
+1623618270,16,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623618277,16,16,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,1,2,0
+1623618280,16,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623618295,17,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623618300,17,16,intento,2,Mujer,2,fallo,Obra_Paul Gauguin.png,1,2,0
+1623618303,17,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623618320,18,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623618336,18,24,fin,3,Hombre,6,abandonada,,2,2,0
+1623619595,21,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623619597,21,24,intento,3,Hombre,6,ok,Obra_Paul Cezanne.png,2,2,200
+1623619600,21,24,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,2,2,170
+1623619602,21,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,140
+1623619603,21,24,intento,3,Hombre,6,ok,Obra_Andy Warhol.png,2,2,340
+1623619605,21,24,intento,3,Hombre,6,fallo,Obra_Raphael.png,2,2,310
+1623619606,21,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,280
+1623619607,21,24,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,2,2,250
+1623619608,21,24,intento,3,Hombre,6,fallo,Obra_Joan Miro.png,2,2,220
+1623619610,21,24,intento,3,Hombre,6,fallo,Obra_Paul Gauguin.png,2,2,190
+1623619612,21,24,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,2,2,160
+1623619613,21,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,130
+1623619616,21,24,intento,3,Hombre,6,ok,Obra_Joan Miro.png,2,2,330
+1623619617,21,24,intento,3,Hombre,6,fallo,Obra_Piet Mondrian.png,2,2,300
+1623619619,21,24,intento,3,Hombre,6,ok,Obra_Piet Mondrian.png,2,2,500
+1623619620,21,24,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,2,2,470
+1623619622,21,24,intento,3,Hombre,6,fallo,Obra_Henri Rousseau.png,2,2,440
+1623619623,21,24,intento,3,Hombre,6,ok,Obra_Paul Gauguin.png,2,2,640
+1623619624,21,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,610
+1623619627,21,24,intento,3,Hombre,6,ok,Obra_Raphael.png,2,2,810
+1623619628,21,24,intento,3,Hombre,6,fallo,Obra_Michelangelo.png,2,2,780
+1623619630,21,24,intento,3,Hombre,6,fallo,Obra_Jackson Pollock.png,2,2,750
+1623619632,21,24,intento,3,Hombre,6,ok,Obra_Michelangelo.png,2,2,950
+1623619633,21,24,intento,3,Hombre,6,ok,Obra_Jackson Pollock.png,2,2,1150
+1623619634,21,24,intento,3,Hombre,6,fallo,Obra_Paul Klee.png,2,2,1120
+1623619636,21,24,intento,3,Hombre,6,ok,Obra_Eugene Delacroix.png,2,2,1320
+1623619637,21,24,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,2,2,1290
+1623619638,21,24,intento,3,Hombre,6,ok,Obra_Henri Rousseau.png,2,2,1490
+1623619639,21,24,intento,3,Hombre,6,ok,Obra_Paul Klee.png,2,2,1690
+1623619641,21,24,intento,3,Hombre,6,ok,Obra_Georges Seurat.png,2,2,1890
+1623619641,21,24,fin,3,Hombre,6,finalizada,,2,2,4110
+1623620868,24,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623620870,24,16,intento,2,Mujer,2,ok,Obra_Andy Warhol.png,1,2,200
+1623620872,24,16,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,1,2,170
+1623620874,24,16,intento,2,Mujer,2,fallo,Obra_Raphael.png,1,2,140
+1623620875,24,16,intento,2,Mujer,2,fallo,Obra_Piet Mondrian.png,1,2,110
+1623620876,24,16,intento,2,Mujer,2,ok,Obra_Piet Mondrian.png,1,2,310
+1623620877,24,16,intento,2,Mujer,2,ok,Obra_Jackson Pollock.png,1,2,510
+1623620879,24,16,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,1,2,480
+1623620880,24,16,intento,2,Mujer,2,ok,Obra_Paul Gauguin.png,1,2,680
+1623620882,24,16,intento,2,Mujer,2,fallo,Obra_Raphael.png,1,2,650
+1623620883,24,16,intento,2,Mujer,2,ok,Obra_Raphael.png,1,2,850
+1623620885,24,16,intento,2,Mujer,2,ok,Obra_Michelangelo.png,1,2,1050
+1623620886,24,16,intento,2,Mujer,2,fallo,Obra_Joan Miro.png,1,2,1020
+1623620888,24,16,intento,2,Mujer,2,ok,Obra_Paul Klee.png,1,2,1220
+1623620888,24,16,intento,2,Mujer,2,ok,Obra_Joan Miro.png,1,2,1420
+1623620889,24,16,fin,2,Mujer,2,finalizada,,1,2,2620
+1623622651,25,16,inicio_partida,4,No binarie,4,,,1,2,0
+1623622652,25,16,intento,4,No binarie,4,ok,Paul Klee,1,2,200
+1623622653,25,16,intento,4,No binarie,4,fallo,Joan Miro,1,2,170
+1623622655,25,16,intento,4,No binarie,4,fallo,Andy Warhol,1,2,140
+1623622656,25,16,intento,4,No binarie,4,fallo,Paul Gauguin,1,2,110
+1623622657,25,16,intento,4,No binarie,4,ok,Paul Gauguin,1,2,310
+1623622659,25,16,intento,4,No binarie,4,fallo,Jackson Pollock,1,2,280
+1623622661,25,16,intento,4,No binarie,4,fallo,Raphael,1,2,250
+1623622662,25,16,intento,4,No binarie,4,ok,Raphael,1,2,450
+1623622663,25,16,intento,4,No binarie,4,fallo,Michelangelo,1,2,420
+1623622665,25,16,intento,4,No binarie,4,fallo,Piet Mondrian,1,2,390
+1623622666,25,16,intento,4,No binarie,4,fallo,Jackson Pollock,1,2,360
+1623622668,25,16,intento,4,No binarie,4,fallo,Joan Miro,1,2,330
+1623622669,25,16,intento,4,No binarie,4,fallo,Andy Warhol,1,2,300
+1623622670,25,16,intento,4,No binarie,4,fallo,Joan Miro,1,2,270
+1623622672,25,16,intento,4,No binarie,4,ok,Jackson Pollock,1,2,470
+1623622673,25,16,intento,4,No binarie,4,fallo,Piet Mondrian,1,2,440
+1623622675,25,16,intento,4,No binarie,4,ok,Piet Mondrian,1,2,640
+1623622676,25,16,intento,4,No binarie,4,ok,Andy Warhol,1,2,840
+1623622677,25,16,intento,4,No binarie,4,fallo,Michelangelo,1,2,810
+1623622679,25,16,intento,4,No binarie,4,ok,Michelangelo,1,2,1010
+1623622681,25,16,intento,4,No binarie,4,ok,Joan Miro,1,2,1210
+1623622681,25,16,fin,4,No binarie,4,finalizada,,1,2,2140
+1623680265,26,24,inicio_partida,3,Hombre,6,,,2,2,0
+1623680267,26,24,intento,3,Hombre,6,fallo,Flag_of_Afghanistan .png,2,2,0
+1623680268,26,24,intento,3,Hombre,6,fallo,Flag_of_Armenia .png,2,2,0
+1623680269,26,24,intento,3,Hombre,6,fallo,Flag_of_Australia .png,2,2,0
+1623680271,26,24,intento,3,Hombre,6,fallo,Flag_of_Algeria .png,2,2,0
+1623680272,26,24,intento,3,Hombre,6,ok,Flag_of_Algeria .png,2,2,200
+1623680273,26,24,intento,3,Hombre,6,fallo,Flag_of_Andorra .png,2,2,170
+1623680276,26,24,intento,3,Hombre,6,ok,Flag_of_Austria .png,2,2,370
+1623680277,26,24,intento,3,Hombre,6,ok,Flag_of_Armenia .png,2,2,570
+1623680279,26,24,intento,3,Hombre,6,fallo,Flag_of_Albania .png,2,2,540
+1623680281,26,24,intento,3,Hombre,6,fallo,Flag_of_Andorra .png,2,2,510
+1623680283,26,24,intento,3,Hombre,6,fallo,Flag_of_Albania .png,2,2,480
+1623680284,26,24,intento,3,Hombre,6,ok,Flag_of_Bahamas.png,2,2,680
+1623680287,26,24,intento,3,Hombre,6,fallo,Flag_of_Argentina .png,2,2,650
+1623680288,26,24,intento,3,Hombre,6,fallo,Flag_of_Azerbaijan .png,2,2,620
+1623680290,26,24,intento,3,Hombre,6,fallo,Flag_of_Argentina .png,2,2,590
+1623680292,26,24,intento,3,Hombre,6,ok,Flag_of_Argentina .png,2,2,790
+1623680293,26,24,intento,3,Hombre,6,ok,Flag_of_Andorra .png,2,2,990
+1623680294,26,24,intento,3,Hombre,6,fallo,Flag_of_Antigua & Barbuda .png,2,2,960
+1623680296,26,24,intento,3,Hombre,6,ok,Flag_of_Australia .png,2,2,1160
+1623680297,26,24,intento,3,Hombre,6,fallo,Flag_of_Albania .png,2,2,1130
+1623680299,26,24,intento,3,Hombre,6,fallo,Flag_of_Azerbaijan .png,2,2,1100
+1623680301,26,24,intento,3,Hombre,6,ok,Flag_of_Angola .png,2,2,1300
+1623680302,26,24,intento,3,Hombre,6,fallo,Flag_of_Afghanistan .png,2,2,1270
+1623680303,26,24,intento,3,Hombre,6,fallo,Flag_of_Albania .png,2,2,1240
+1623680305,26,24,intento,3,Hombre,6,ok,Flag_of_Azerbaijan .png,2,2,1440
+1623680307,26,24,intento,3,Hombre,6,fallo,Flag_of_Antigua & Barbuda .png,2,2,1410
+1623680309,26,24,intento,3,Hombre,6,ok,Flag_of_Afghanistan .png,2,2,1610
+1623680311,26,24,intento,3,Hombre,6,ok,Flag_of_Albania .png,2,2,1810
+1623680312,26,24,intento,3,Hombre,6,ok,Flag_of_Antigua & Barbuda .png,2,2,2010
+1623680313,26,24,fin,3,Hombre,6,finalizada,,2,2,4200
+1623680393,27,42,inicio_partida,Juan,Otro,18,,,3,2,0
+1623680394,27,42,intento,Juan,Otro,18,fallo,Belgium ,3,2,0
+1623680397,27,42,intento,Juan,Otro,18,ok,Bahamas,3,2,200
+1623680399,27,42,intento,Juan,Otro,18,fallo,Afghanistan ,3,2,170
+1623680401,27,42,intento,Juan,Otro,18,fallo,Algeria ,3,2,140
+1623680402,27,42,intento,Juan,Otro,18,fallo,Belize ,3,2,110
+1623680404,27,42,intento,Juan,Otro,18,fallo,Bolivia ,3,2,80
+1623680406,27,42,intento,Juan,Otro,18,fallo,Azerbaijan ,3,2,50
+1623680408,27,42,intento,Juan,Otro,18,fallo,Bangladesh ,3,2,20
+1623680410,27,42,intento,Juan,Otro,18,fallo,Bahrain ,3,2,0
+1623680412,27,42,intento,Juan,Otro,18,fallo,Belize ,3,2,0
+1623680414,27,42,intento,Juan,Otro,18,fallo,Bolivia ,3,2,0
+1623680416,27,42,intento,Juan,Otro,18,ok,Andorra ,3,2,200
+1623680419,27,42,intento,Juan,Otro,18,fallo,Algeria ,3,2,170
+1623680421,27,42,intento,Juan,Otro,18,fallo,Bolivia ,3,2,140
+1623680422,27,42,intento,Juan,Otro,18,ok,Bolivia ,3,2,340
+1623680424,27,42,intento,Juan,Otro,18,fallo,Armenia ,3,2,310
+1623680425,27,42,intento,Juan,Otro,18,fallo,Bhutan ,3,2,280
+1623680427,27,42,intento,Juan,Otro,18,fallo,Angola ,3,2,250
+1623680429,27,42,intento,Juan,Otro,18,fallo,Australia ,3,2,220
+1623680432,27,42,intento,Juan,Otro,18,ok,Argentina ,3,2,420
+1623680433,27,42,intento,Juan,Otro,18,fallo,Armenia ,3,2,390
+1623680434,27,42,intento,Juan,Otro,18,ok,Angola ,3,2,590
+1623680436,27,42,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,3,2,560
+1623680438,27,42,intento,Juan,Otro,18,fallo,Australia ,3,2,530
+1623680439,27,42,intento,Juan,Otro,18,fallo,Bahrain ,3,2,500
+1623680440,27,42,intento,Juan,Otro,18,ok,Australia ,3,2,700
+1623680443,27,42,intento,Juan,Otro,18,ok,Bhutan ,3,2,900
+1623680444,27,42,intento,Juan,Otro,18,fallo,Belarus ,3,2,870
+1623680445,27,42,intento,Juan,Otro,18,fallo,Austria ,3,2,840
+1623680447,27,42,intento,Juan,Otro,18,fallo,Azerbaijan ,3,2,810
+1623680449,27,42,intento,Juan,Otro,18,fallo,Algeria ,3,2,780
+1623680451,27,42,intento,Juan,Otro,18,fallo,Bahrain ,3,2,750
+1623680453,27,42,intento,Juan,Otro,18,fallo,Belarus ,3,2,720
+1623680455,27,42,intento,Juan,Otro,18,ok,Benin ,3,2,920
+1623680457,27,42,intento,Juan,Otro,18,fallo,Bahrain ,3,2,890
+1623680459,27,42,intento,Juan,Otro,18,fallo,Belarus ,3,2,860
+1623680460,27,42,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,3,2,830
+1623680462,27,42,intento,Juan,Otro,18,ok,Algeria ,3,2,1030
+1623680466,27,42,intento,Juan,Otro,18,ok,Afghanistan ,3,2,1230
+1623680468,27,42,intento,Juan,Otro,18,fallo,Belize ,3,2,1200
+1623680470,27,42,intento,Juan,Otro,18,ok,Belize ,3,2,1400
+1623680471,27,42,intento,Juan,Otro,18,ok,Bahrain ,3,2,1600
+1623680472,27,42,intento,Juan,Otro,18,fallo,Bangladesh ,3,2,1570
+1623680474,27,42,intento,Juan,Otro,18,ok,Austria ,3,2,1770
+1623680475,27,42,intento,Juan,Otro,18,ok,Bangladesh ,3,2,1970
+1623680476,27,42,intento,Juan,Otro,18,fallo,Azerbaijan ,3,2,1940
+1623680478,27,42,intento,Juan,Otro,18,ok,Azerbaijan ,3,2,2140
+1623680480,27,42,intento,Juan,Otro,18,ok,Barbados ,3,2,2340
+1623680482,27,42,intento,Juan,Otro,18,fallo,Belarus ,3,2,2310
+1623680483,27,42,intento,Juan,Otro,18,fallo,Albania ,3,2,2280
+1623680485,27,42,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,3,2,2250
+1623680486,27,42,intento,Juan,Otro,18,ok,Antigua & Barbuda ,3,2,2450
+1623680487,27,42,intento,Juan,Otro,18,fallo,Belgium ,3,2,2420
+1623680493,27,42,intento,Juan,Otro,18,fallo,Armenia ,3,2,2390
+1623680495,27,42,intento,Juan,Otro,18,fallo,Armenia ,3,2,2360
+1623680497,27,42,intento,Juan,Otro,18,fallo,Belarus ,3,2,2330
+1623680499,27,42,intento,Juan,Otro,18,ok,Armenia ,3,2,2530
+1623680500,27,42,intento,Juan,Otro,18,ok,Belgium ,3,2,2730
+1623680502,27,42,intento,Juan,Otro,18,ok,Belarus ,3,2,2930
+1623680503,27,42,intento,Juan,Otro,18,ok,Albania ,3,2,3130
+1623680503,27,42,fin,Juan,Otro,18,finalizada,,3,2,5260
+1623680530,28,24,inicio_partida,Juan,Otro,18,,,2,2,0
+1623680532,28,24,intento,Juan,Otro,18,fallo,Flag_of_Algeria .png,2,2,0
+1623680533,28,24,intento,Juan,Otro,18,ok,Flag_of_Albania .png,2,2,200
+1623680534,28,24,intento,Juan,Otro,18,fallo,Flag_of_Afghanistan .png,2,2,170
+1623680537,28,24,intento,Juan,Otro,18,ok,Flag_of_Antigua & Barbuda .png,2,2,370
+1623680538,28,24,intento,Juan,Otro,18,ok,Flag_of_Australia .png,2,2,570
+1623680540,28,24,intento,Juan,Otro,18,fallo,Flag_of_Afghanistan .png,2,2,540
+1623680541,28,24,intento,Juan,Otro,18,fallo,Flag_of_Angola .png,2,2,510
+1623680543,28,24,intento,Juan,Otro,18,fallo,Flag_of_Angola .png,2,2,480
+1623680545,28,24,intento,Juan,Otro,18,fallo,Flag_of_Algeria .png,2,2,450
+1623680546,28,24,intento,Juan,Otro,18,fallo,Flag_of_Afghanistan .png,2,2,420
+1623680547,28,24,intento,Juan,Otro,18,fallo,Flag_of_Azerbaijan .png,2,2,390
+1623680549,28,24,intento,Juan,Otro,18,fallo,Flag_of_Armenia .png,2,2,360
+1623680551,28,24,intento,Juan,Otro,18,fallo,Flag_of_Azerbaijan .png,2,2,330
+1623680553,28,24,intento,Juan,Otro,18,fallo,Flag_of_Algeria .png,2,2,300
+1623680554,28,24,intento,Juan,Otro,18,ok,Flag_of_Azerbaijan .png,2,2,500
+1623680556,28,24,intento,Juan,Otro,18,ok,Flag_of_Andorra .png,2,2,700
+1623680559,28,24,intento,Juan,Otro,18,fallo,Flag_of_Afghanistan .png,2,2,670
+1623680561,28,24,intento,Juan,Otro,18,ok,Flag_of_Angola .png,2,2,870
+1623680562,28,24,intento,Juan,Otro,18,fallo,Flag_of_Afghanistan .png,2,2,840
+1623680564,28,24,intento,Juan,Otro,18,ok,Flag_of_Algeria .png,2,2,1040
+1623680566,28,24,intento,Juan,Otro,18,fallo,Flag_of_Armenia .png,2,2,1010
+1623680567,28,24,intento,Juan,Otro,18,ok,Flag_of_Armenia .png,2,2,1210
+1623680568,28,24,intento,Juan,Otro,18,fallo,Flag_of_Bahamas.png,2,2,1180
+1623680570,28,24,intento,Juan,Otro,18,ok,Flag_of_Afghanistan .png,2,2,1380
+1623680590,28,24,fin,Juan,Otro,18,abandonada,,2,2,1380
+1623680595,29,24,inicio_partida,Juan,Otro,18,,,2,2,0
+1623680596,29,24,intento,Juan,Otro,18,fallo,Armenia ,2,2,0
+1623680598,29,24,intento,Juan,Otro,18,fallo,Angola ,2,2,0
+1623680600,29,24,intento,Juan,Otro,18,fallo,Albania ,2,2,0
+1623680602,29,24,intento,Juan,Otro,18,fallo,Afghanistan ,2,2,0
+1623680603,29,24,intento,Juan,Otro,18,fallo,Algeria ,2,2,0
+1623680604,29,24,intento,Juan,Otro,18,ok,Azerbaijan ,2,2,200
+1623680605,29,24,intento,Juan,Otro,18,fallo,Albania ,2,2,170
+1623680608,29,24,intento,Juan,Otro,18,fallo,Australia ,2,2,140
+1623680609,29,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,110
+1623680611,29,24,intento,Juan,Otro,18,ok,Andorra ,2,2,310
+1623680614,29,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,280
+1623680616,29,24,intento,Juan,Otro,18,fallo,Armenia ,2,2,250
+1623680619,29,24,intento,Juan,Otro,18,ok,Albania ,2,2,450
+1623680621,29,24,intento,Juan,Otro,18,ok,Antigua & Barbuda ,2,2,650
+1623680622,29,24,intento,Juan,Otro,18,fallo,Algeria ,2,2,620
+1623680624,29,24,intento,Juan,Otro,18,ok,Austria ,2,2,820
+1623680625,29,24,intento,Juan,Otro,18,ok,Algeria ,2,2,1020
+1623680626,29,24,intento,Juan,Otro,18,fallo,Angola ,2,2,990
+1623680628,29,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,960
+1623680629,29,24,intento,Juan,Otro,18,ok,Australia ,2,2,1160
+1623680630,29,24,intento,Juan,Otro,18,fallo,Angola ,2,2,1130
+1623680632,29,24,intento,Juan,Otro,18,fallo,Argentina ,2,2,1100
+1623680634,29,24,intento,Juan,Otro,18,fallo,Armenia ,2,2,1070
+1623680637,29,24,intento,Juan,Otro,18,ok,Argentina ,2,2,1270
+1623680640,29,24,intento,Juan,Otro,18,ok,Armenia ,2,2,1470
+1623680642,29,24,intento,Juan,Otro,18,fallo,Angola ,2,2,1440
+1623680644,29,24,intento,Juan,Otro,18,ok,Bahamas,2,2,1640
+1623680646,29,24,intento,Juan,Otro,18,fallo,Afghanistan ,2,2,1610
+1623680647,29,24,intento,Juan,Otro,18,ok,Angola ,2,2,1810
+1623680648,29,24,intento,Juan,Otro,18,ok,Afghanistan ,2,2,2010
+1623680648,29,24,fin,Juan,Otro,18,finalizada,,2,2,4050
+1623680660,30,24,inicio_partida,Juan,Otro,18,,,2,2,0
+1623680662,30,24,intento,Juan,Otro,18,ok,Austria ,2,2,200
+1623680664,30,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,170
+1623680665,30,24,intento,Juan,Otro,18,fallo,Andorra ,2,2,140
+1623680667,30,24,intento,Juan,Otro,18,fallo,Australia ,2,2,110
+1623680669,30,24,intento,Juan,Otro,18,ok,Bahamas,2,2,310
+1623680670,30,24,intento,Juan,Otro,18,fallo,Albania ,2,2,280
+1623680672,30,24,intento,Juan,Otro,18,ok,Argentina ,2,2,480
+1623680674,30,24,intento,Juan,Otro,18,fallo,Afghanistan ,2,2,450
+1623680675,30,24,intento,Juan,Otro,18,fallo,Andorra ,2,2,420
+1623680677,30,24,intento,Juan,Otro,18,fallo,Andorra ,2,2,390
+1623680679,30,24,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,2,2,360
+1623680681,30,24,intento,Juan,Otro,18,ok,Armenia ,2,2,560
+1623680682,30,24,intento,Juan,Otro,18,ok,Angola ,2,2,760
+1623680684,30,24,intento,Juan,Otro,18,fallo,Azerbaijan ,2,2,730
+1623680685,30,24,intento,Juan,Otro,18,fallo,Algeria ,2,2,700
+1623680687,30,24,intento,Juan,Otro,18,fallo,Afghanistan ,2,2,670
+1623680689,30,24,intento,Juan,Otro,18,fallo,Albania ,2,2,640
+1623680690,30,24,intento,Juan,Otro,18,fallo,Algeria ,2,2,610
+1623680692,30,24,intento,Juan,Otro,18,fallo,Algeria ,2,2,580
+1623680694,30,24,intento,Juan,Otro,18,ok,Algeria ,2,2,780
+1623680696,30,24,intento,Juan,Otro,18,fallo,Australia ,2,2,750
+1623680698,30,24,intento,Juan,Otro,18,ok,Antigua & Barbuda ,2,2,950
+1623680699,30,24,intento,Juan,Otro,18,fallo,Andorra ,2,2,920
+1623680701,30,24,intento,Juan,Otro,18,ok,Australia ,2,2,1120
+1623680703,30,24,intento,Juan,Otro,18,fallo,Afghanistan ,2,2,1090
+1623680705,30,24,intento,Juan,Otro,18,fallo,Azerbaijan ,2,2,1060
+1623680707,30,24,intento,Juan,Otro,18,ok,Andorra ,2,2,1260
+1623680708,30,24,intento,Juan,Otro,18,fallo,Azerbaijan ,2,2,1230
+1623680709,30,24,intento,Juan,Otro,18,ok,Afghanistan ,2,2,1430
+1623680711,30,24,intento,Juan,Otro,18,ok,Azerbaijan ,2,2,1630
+1623680712,30,24,intento,Juan,Otro,18,ok,Albania ,2,2,1830
+1623680712,30,24,fin,Juan,Otro,18,finalizada,,2,2,3900
+1623680719,31,24,inicio_partida,Juan,Otro,18,,,2,2,0
+1623680721,31,24,fin,Juan,Otro,18,abandonada,,2,2,0
+1623680726,32,24,inicio_partida,Juan,Otro,18,,,2,2,0
+1623680728,32,24,intento,Juan,Otro,18,ok,Algeria ,2,2,200
+1623680729,32,24,intento,Juan,Otro,18,fallo,Albania ,2,2,170
+1623680731,32,24,intento,Juan,Otro,18,ok,Albania ,2,2,370
+1623680733,32,24,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,2,2,340
+1623680734,32,24,intento,Juan,Otro,18,fallo,Argentina ,2,2,310
+1623680736,32,24,intento,Juan,Otro,18,ok,Afghanistan ,2,2,510
+1623680737,32,24,intento,Juan,Otro,18,fallo,Austria ,2,2,480
+1623680738,32,24,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,2,2,450
+1623680740,32,24,intento,Juan,Otro,18,fallo,Angola ,2,2,420
+1623680741,32,24,intento,Juan,Otro,18,fallo,Angola ,2,2,390
+1623680743,32,24,intento,Juan,Otro,18,fallo,Argentina ,2,2,360
+1623680745,32,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,330
+1623680746,32,24,intento,Juan,Otro,18,ok,Argentina ,2,2,530
+1623680750,32,24,intento,Juan,Otro,18,fallo,Bahamas,2,2,500
+1623680751,32,24,intento,Juan,Otro,18,fallo,Antigua & Barbuda ,2,2,470
+1623680752,32,24,intento,Juan,Otro,18,ok,Bahamas,2,2,670
+1623680753,32,24,intento,Juan,Otro,18,fallo,Angola ,2,2,640
+1623680755,32,24,intento,Juan,Otro,18,fallo,Andorra ,2,2,610
+1623680757,32,24,intento,Juan,Otro,18,ok,Angola ,2,2,810
+1623680758,32,24,intento,Juan,Otro,18,fallo,Azerbaijan ,2,2,780
+1623680760,32,24,intento,Juan,Otro,18,ok,Azerbaijan ,2,2,980
+1623680761,32,24,intento,Juan,Otro,18,fallo,Australia ,2,2,950
+1623680762,32,24,intento,Juan,Otro,18,fallo,Austria ,2,2,920
+1623680765,32,24,fin,Juan,Otro,18,abandonada,,2,2,920
+1623682961,33,42,inicio_partida,3,Hombre,6,,,3,2,0
+1623682963,33,42,intento,3,Hombre,6,fallo,Obra_Gustave Courbet.png,3,2,0
+1623682965,33,42,intento,3,Hombre,6,fallo,Obra_Edvard Munch.png,3,2,0
+1623682967,33,42,intento,3,Hombre,6,fallo,Obra_Albrecht Dürer.png,3,2,0
+1623682970,33,42,intento,3,Hombre,6,ok,Obra_Giotto di Bondone.png,3,2,200
+1623682971,33,42,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,3,2,170
+1623682973,33,42,intento,3,Hombre,6,fallo,Obra_Frida Kahlo.png,3,2,140
+1623682974,33,42,intento,3,Hombre,6,fallo,Obra_Camille Pissarro.png,3,2,110
+1623682976,33,42,intento,3,Hombre,6,fallo,Obra_Claude Monet.png,3,2,80
+1623682978,33,42,intento,3,Hombre,6,ok,Obra_Edvard Munch.png,3,2,280
+1623682979,33,42,intento,3,Hombre,6,fallo,Obra_Diego Velazquez.png,3,2,250
+1623682981,33,42,intento,3,Hombre,6,fallo,Obra_Camille Pissarro.png,3,2,220
+1623682983,33,42,intento,3,Hombre,6,fallo,Obra_Edouard Manet.png,3,2,190
+1623682984,33,42,intento,3,Hombre,6,ok,Obra_Edouard Manet.png,3,2,390
+1623682986,33,42,intento,3,Hombre,6,ok,Obra_Amedeo Modigliani.png,3,2,590
+1623682988,33,42,intento,3,Hombre,6,ok,Obra_Camille Pissarro.png,3,2,790
+1623682990,33,42,intento,3,Hombre,6,fallo,Obra_Edgar Degas.png,3,2,760
+1623682991,33,42,intento,3,Hombre,6,fallo,Obra_Frida Kahlo.png,3,2,730
+1623682993,33,42,intento,3,Hombre,6,fallo,Obra_Andrei Rublev.png,3,2,700
+1623682995,33,42,intento,3,Hombre,6,ok,Obra_Edgar Degas.png,3,2,900
+1623682997,33,42,intento,3,Hombre,6,fallo,Obra_El Greco.png,3,2,870
+1623683000,33,42,intento,3,Hombre,6,ok,Obra_Alfred Sisley.png,3,2,1070
+1623683001,33,42,intento,3,Hombre,6,fallo,Obra_Caravaggio.png,3,2,1040
+1623683003,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,1010
+1623683004,33,42,intento,3,Hombre,6,ok,Obra_Albrecht Dürer.png,3,2,1210
+1623683005,33,42,intento,3,Hombre,6,fallo,Obra_Gustav Klimt.png,3,2,1180
+1623683007,33,42,intento,3,Hombre,6,ok,Obra_El Greco.png,3,2,1380
+1623683008,33,42,intento,3,Hombre,6,fallo,Obra_Claude Monet.png,3,2,1350
+1623683010,33,42,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,3,2,1320
+1623683013,33,42,intento,3,Hombre,6,fallo,Obra_Andy Warhol.png,3,2,1290
+1623683015,33,42,intento,3,Hombre,6,ok,Obra_Diego Velazquez.png,3,2,1490
+1623683016,33,42,intento,3,Hombre,6,ok,Obra_Gustav Klimt.png,3,2,1690
+1623683017,33,42,intento,3,Hombre,6,fallo,Obra_Claude Monet.png,3,2,1660
+1623683019,33,42,intento,3,Hombre,6,fallo,Obra_Caravaggio.png,3,2,1630
+1623683020,33,42,intento,3,Hombre,6,ok,Obra_Caravaggio.png,3,2,1830
+1623683022,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,1800
+1623683024,33,42,intento,3,Hombre,6,fallo,Obra_Diego Rivera.png,3,2,1770
+1623683025,33,42,intento,3,Hombre,6,fallo,Obra_Andrei Rublev.png,3,2,1740
+1623683027,33,42,intento,3,Hombre,6,fallo,Obra_Diego Rivera.png,3,2,1710
+1623683028,33,42,intento,3,Hombre,6,fallo,Obra_Gustave Courbet.png,3,2,1680
+1623683029,33,42,intento,3,Hombre,6,ok,Obra_Gustave Courbet.png,3,2,1880
+1623683032,33,42,intento,3,Hombre,6,ok,Obra_Andrei Rublev.png,3,2,2080
+1623683033,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,2050
+1623683035,33,42,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,3,2,2020
+1623683036,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,1990
+1623683037,33,42,intento,3,Hombre,6,fallo,Obra_Francisco Goya.png,3,2,1960
+1623683039,33,42,intento,3,Hombre,6,ok,Obra_Andy Warhol.png,3,2,2160
+1623683040,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,2130
+1623683042,33,42,intento,3,Hombre,6,fallo,Obra_Claude Monet.png,3,2,2100
+1623683044,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,2070
+1623683046,33,42,intento,3,Hombre,6,fallo,Obra_Diego Rivera.png,3,2,2040
+1623683048,33,42,intento,3,Hombre,6,ok,Obra_Diego Rivera.png,3,2,2240
+1623683051,33,42,intento,3,Hombre,6,ok,Obra_Frida Kahlo.png,3,2,2440
+1623683052,33,42,intento,3,Hombre,6,fallo,Obra_Georges Seurat.png,3,2,2410
+1623683053,33,42,intento,3,Hombre,6,ok,Obra_Francisco Goya.png,3,2,2610
+1623683055,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,2580
+1623683056,33,42,intento,3,Hombre,6,ok,Obra_Claude Monet.png,3,2,2780
+1623683057,33,42,intento,3,Hombre,6,fallo,Obra_Eugene Delacroix.png,3,2,2750
+1623683059,33,42,intento,3,Hombre,6,ok,Obra_Georges Seurat.png,3,2,2950
+1623683060,33,42,intento,3,Hombre,6,ok,Obra_Eugene Delacroix.png,3,2,3150
+1623683060,33,42,fin,3,Hombre,6,finalizada,,3,2,5610
+1623683072,34,16,inicio_partida,3,Hombre,6,,,1,2,0
+1623683073,34,16,intento,3,Hombre,6,fallo,Claude Monet,1,2,0
+1623683075,34,16,intento,3,Hombre,6,fallo,Albrecht Dürer,1,2,0
+1623683076,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,0
+1623683078,34,16,intento,3,Hombre,6,fallo,Amedeo Modigliani,1,2,0
+1623683080,34,16,intento,3,Hombre,6,ok,Andy Warhol,1,2,200
+1623683081,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,170
+1623683083,34,16,intento,3,Hombre,6,fallo,Alfred Sisley,1,2,140
+1623683085,34,16,intento,3,Hombre,6,fallo,Caravaggio,1,2,110
+1623683089,34,16,intento,3,Hombre,6,fallo,Amedeo Modigliani,1,2,80
+1623683091,34,16,intento,3,Hombre,6,fallo,Claude Monet,1,2,50
+1623683093,34,16,intento,3,Hombre,6,fallo,Albrecht Dürer,1,2,20
+1623683095,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,0
+1623683097,34,16,intento,3,Hombre,6,fallo,Amedeo Modigliani,1,2,0
+1623683099,34,16,intento,3,Hombre,6,fallo,Albrecht Dürer,1,2,0
+1623683101,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,0
+1623683104,34,16,intento,3,Hombre,6,ok,Camille Pissarro,1,2,200
+1623683105,34,16,intento,3,Hombre,6,ok,Amedeo Modigliani,1,2,400
+1623683107,34,16,intento,3,Hombre,6,fallo,Albrecht Dürer,1,2,370
+1623683109,34,16,intento,3,Hombre,6,fallo,Claude Monet,1,2,340
+1623683111,34,16,intento,3,Hombre,6,fallo,Claude Monet,1,2,310
+1623683112,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,280
+1623683114,34,16,intento,3,Hombre,6,fallo,Alfred Sisley,1,2,250
+1623683116,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,220
+1623683117,34,16,intento,3,Hombre,6,fallo,Alfred Sisley,1,2,190
+1623683118,34,16,intento,3,Hombre,6,fallo,Andrei Rublev,1,2,160
+1623683122,34,16,intento,3,Hombre,6,fallo,Albrecht Dürer,1,2,130
+1623683125,34,16,intento,3,Hombre,6,ok,Caravaggio,1,2,330
+1623683126,34,16,intento,3,Hombre,6,ok,Andrei Rublev,1,2,530
+1623683128,34,16,intento,3,Hombre,6,fallo,Claude Monet,1,2,500
+1623683132,34,16,fin,3,Hombre,6,timeout,,1,2,500
+1623704732,35,16,inicio_partida,3,No binarie,3,,,1,2,0
+1623704733,35,16,intento,3,No binarie,3,fallo,Albrecht Dürer,1,2,0
+1623704734,35,16,intento,3,No binarie,3,fallo,Albrecht Dürer,1,2,0
+1623704736,35,16,intento,3,No binarie,3,ok,Albrecht Dürer,1,2,200
+1623704737,35,16,intento,3,No binarie,3,fallo,Camille Pissarro,1,2,170
+1623704738,35,16,intento,3,No binarie,3,fallo,Andrei Rublev,1,2,140
+1623704740,35,16,intento,3,No binarie,3,fallo,Andy Warhol,1,2,110
+1623704741,35,16,intento,3,No binarie,3,ok,Claude Monet,1,2,310
+1623704742,35,16,intento,3,No binarie,3,fallo,Alfred Sisley,1,2,280
+1623704744,35,16,intento,3,No binarie,3,ok,Alfred Sisley,1,2,480
+1623704745,35,16,intento,3,No binarie,3,fallo,Andy Warhol,1,2,450
+1623704747,35,16,intento,3,No binarie,3,fallo,Amedeo Modigliani,1,2,420
+1623704748,35,16,intento,3,No binarie,3,fallo,Andrei Rublev,1,2,390
+1623704751,35,16,intento,3,No binarie,3,fallo,Camille Pissarro,1,2,360
+1623704752,35,16,intento,3,No binarie,3,ok,Amedeo Modigliani,1,2,560
+1623704755,35,16,intento,3,No binarie,3,fallo,Caravaggio,1,2,530
+1623704756,35,16,intento,3,No binarie,3,ok,Camille Pissarro,1,2,730
+1623704757,35,16,fin,3,No binarie,3,abandonada,,1,2,730
+1623789708,37,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623789709,37,16,intento,2,Mujer,2,fallo,Sandro Botticelli,1,2,0
+1623789710,37,16,intento,2,Mujer,2,fallo,Andrei Rublev,1,2,0
+1623789711,37,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,0
+1623789713,37,16,intento,2,Mujer,2,ok,Jan van Eyck,1,2,200
+1623789717,37,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,170
+1623789719,37,16,intento,2,Mujer,2,ok,Giotto di Bondone,1,2,370
+1623789720,37,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,340
+1623789722,37,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,310
+1623789724,37,16,intento,2,Mujer,2,ok,Albrecht Dürer,1,2,510
+1623789725,37,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,480
+1623789727,37,16,intento,2,Mujer,2,ok,Sandro Botticelli,1,2,680
+1623789729,37,16,intento,2,Mujer,2,ok,Hieronymus Bosch,1,2,880
+1623789730,37,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,850
+1623789731,37,16,intento,2,Mujer,2,ok,Leonardo da Vinci,1,2,1050
+1623789733,37,16,intento,2,Mujer,2,ok,Andrei Rublev,1,2,1250
+1623789734,37,16,intento,2,Mujer,2,ok,Michelangelo,1,2,1450
+1623789734,37,16,fin,2,Mujer,2,finalizada,,1,2,2500
+1623789956,38,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623789957,38,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,0
+1623789958,38,16,intento,2,Mujer,2,fallo,Jan van Eyck,1,2,0
+1623789959,38,16,intento,2,Mujer,2,ok,Hieronymus Bosch,1,2,200
+1623789962,38,16,intento,2,Mujer,2,ok,Jan van Eyck,1,2,400
+1623789963,38,16,intento,2,Mujer,2,fallo,Albrecht Dürer,1,2,370
+1623789964,38,16,intento,2,Mujer,2,fallo,Albrecht Dürer,1,2,340
+1623789965,38,16,intento,2,Mujer,2,ok,Albrecht Dürer,1,2,540
+1623789966,38,16,intento,2,Mujer,2,fallo,Sandro Botticelli,1,2,510
+1623789968,38,16,intento,2,Mujer,2,ok,Leonardo da Vinci,1,2,710
+1623789969,38,16,intento,2,Mujer,2,ok,Sandro Botticelli,1,2,910
+1623789970,38,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,880
+1623789972,38,16,intento,2,Mujer,2,fallo,Giotto di Bondone,1,2,850
+1623789973,38,16,intento,2,Mujer,2,ok,Andrei Rublev,1,2,1050
+1623789974,38,16,intento,2,Mujer,2,ok,Giotto di Bondone,1,2,1250
+1623789975,38,16,intento,2,Mujer,2,ok,Michelangelo,1,2,1450
+1623789975,38,16,fin,2,Mujer,2,finalizada,,1,2,2680
+1623790151,39,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623790153,39,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623790220,40,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623790222,40,42,intento,2,Mujer,2,ok,El Greco,3,2,200
+1623790223,40,42,intento,2,Mujer,2,fallo,Michelangelo,3,2,170
+1623790225,40,42,intento,2,Mujer,2,fallo,Giotto di Bondone,3,2,140
+1623790227,40,42,intento,2,Mujer,2,fallo,Diego Velazquez,3,2,110
+1623790229,40,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,80
+1623790231,40,42,intento,2,Mujer,2,fallo,Michelangelo,3,2,50
+1623790232,40,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,20
+1623790234,40,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,0
+1623790235,40,42,intento,2,Mujer,2,fallo,Titian,3,2,0
+1623790236,40,42,intento,2,Mujer,2,fallo,Sandro Botticelli,3,2,0
+1623790238,40,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,0
+1623790239,40,42,intento,2,Mujer,2,ok,Sandro Botticelli,3,2,200
+1623790240,40,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,170
+1623790242,40,42,intento,2,Mujer,2,fallo,Pieter Bruegel,3,2,140
+1623790244,40,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,110
+1623790246,40,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,80
+1623790248,40,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,50
+1623790249,40,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,20
+1623790250,40,42,intento,2,Mujer,2,fallo,Titian,3,2,0
+1623790252,40,42,intento,2,Mujer,2,fallo,Andrei Rublev,3,2,0
+1623790254,40,42,intento,2,Mujer,2,fallo,Francisco Goya,3,2,0
+1623790256,40,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,0
+1623790258,40,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,0
+1623790261,40,42,fin,2,Mujer,2,abandonada,,3,2,0
+1623792832,41,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623792835,41,42,intento,2,Mujer,2,fallo,El Greco,3,2,0
+1623792836,41,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,0
+1623792837,41,42,intento,2,Mujer,2,fallo,Giotto di Bondone,3,2,0
+1623792838,41,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,0
+1623792840,41,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,0
+1623792841,41,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,0
+1623792842,41,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,0
+1623792846,41,42,intento,2,Mujer,2,fallo,Gustave Courbet,3,2,0
+1623792853,41,42,fin,2,Mujer,2,abandonada,,3,2,0
+1623792855,42,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623792875,42,42,fin,2,Mujer,2,abandonada,,3,2,0
+1623792883,43,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623792884,43,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,0
+1623792889,43,42,fin,2,Mujer,2,abandonada,,3,2,0
+1623793091,45,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623793092,45,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,0
+1623793093,45,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,0
+1623793094,45,42,intento,2,Mujer,2,fallo,Michelangelo,3,2,0
+1623793095,45,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,0
+1623793096,45,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,0
+1623793098,45,42,intento,2,Mujer,2,fallo,Francisco Goya,3,2,0
+1623793100,45,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,0
+1623793102,45,42,intento,2,Mujer,2,fallo,Sandro Botticelli,3,2,0
+1623793103,45,42,intento,2,Mujer,2,ok,Caravaggio,3,2,200
+1623793106,45,42,fin,2,Mujer,2,abandonada,,3,2,200
+1623793128,46,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623793129,46,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,0
+1623793130,46,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,0
+1623793131,46,42,intento,2,Mujer,2,fallo,Giotto di Bondone,3,2,0
+1623793132,46,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,0
+1623793133,46,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,0
+1623793134,46,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,0
+1623793136,46,42,intento,2,Mujer,2,fallo,Sandro Botticelli,3,2,0
+1623793137,46,42,intento,2,Mujer,2,ok,Leonardo da Vinci,3,2,200
+1623793139,46,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,170
+1623793141,46,42,intento,2,Mujer,2,fallo,Pieter Bruegel,3,2,140
+1623793142,46,42,intento,2,Mujer,2,fallo,Andrei Rublev,3,2,110
+1623793144,46,42,intento,2,Mujer,2,fallo,Michelangelo,3,2,80
+1623793148,46,42,intento,2,Mujer,2,fallo,Diego Velazquez,3,2,50
+1623793151,46,42,intento,2,Mujer,2,ok,William Turner,3,2,250
+1623793155,46,42,fin,2,Mujer,2,abandonada,,3,2,250
+1623793172,47,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623793174,47,42,intento,2,Mujer,2,ok,Peter Paul Rubens,3,2,200
+1623793176,47,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,170
+1623793177,47,42,intento,2,Mujer,2,fallo,Andrei Rublev,3,2,140
+1623793178,47,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,110
+1623793180,47,42,intento,2,Mujer,2,fallo,William Turner,3,2,80
+1623793181,47,42,intento,2,Mujer,2,fallo,Giotto di Bondone,3,2,50
+1623793184,47,42,intento,2,Mujer,2,ok,Giotto di Bondone,3,2,250
+1623793185,47,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,220
+1623793186,47,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,190
+1623793188,47,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,160
+1623793191,47,42,intento,2,Mujer,2,ok,William Turner,3,2,360
+1623793193,47,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,330
+1623793195,47,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,300
+1623793196,47,42,intento,2,Mujer,2,fallo,Eugene Delacroix,3,2,270
+1623793198,47,42,intento,2,Mujer,2,ok,Michelangelo,3,2,470
+1623793199,47,42,intento,2,Mujer,2,fallo,Sandro Botticelli,3,2,440
+1623793200,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,410
+1623793201,47,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,380
+1623793204,47,42,intento,2,Mujer,2,ok,Raphael,3,2,580
+1623793206,47,42,intento,2,Mujer,2,fallo,Francisco Goya,3,2,550
+1623793207,47,42,intento,2,Mujer,2,fallo,Titian,3,2,520
+1623793209,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,490
+1623793210,47,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,460
+1623793212,47,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,430
+1623793213,47,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,400
+1623793215,47,42,intento,2,Mujer,2,ok,Titian,3,2,600
+1623793216,47,42,intento,2,Mujer,2,fallo,Francisco Goya,3,2,570
+1623793219,47,42,intento,2,Mujer,2,ok,Eugene Delacroix,3,2,770
+1623793220,47,42,intento,2,Mujer,2,fallo,Rembrandt,3,2,740
+1623793222,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,710
+1623793223,47,42,intento,2,Mujer,2,fallo,Sandro Botticelli,3,2,680
+1623793225,47,42,intento,2,Mujer,2,fallo,Diego Velazquez,3,2,650
+1623793227,47,42,intento,2,Mujer,2,fallo,Diego Velazquez,3,2,620
+1623793228,47,42,intento,2,Mujer,2,ok,Diego Velazquez,3,2,820
+1623793231,47,42,intento,2,Mujer,2,ok,Sandro Botticelli,3,2,1020
+1623793232,47,42,intento,2,Mujer,2,fallo,Francisco Goya,3,2,990
+1623793234,47,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,960
+1623793236,47,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,930
+1623793237,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,900
+1623793238,47,42,intento,2,Mujer,2,fallo,El Greco,3,2,870
+1623793240,47,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,840
+1623793241,47,42,intento,2,Mujer,2,ok,Jan van Eyck,3,2,1040
+1623793243,47,42,intento,2,Mujer,2,ok,Rembrandt,3,2,1240
+1623793244,47,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,1210
+1623793246,47,42,intento,2,Mujer,2,fallo,Pieter Bruegel,3,2,1180
+1623793247,47,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,1150
+1623793249,47,42,intento,2,Mujer,2,fallo,Andrei Rublev,3,2,1120
+1623793250,47,42,intento,2,Mujer,2,ok,Pieter Bruegel,3,2,1320
+1623793251,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,1290
+1623793254,47,42,intento,2,Mujer,2,fallo,Albrecht Dürer,3,2,1260
+1623793257,47,42,intento,2,Mujer,2,ok,Caravaggio,3,2,1460
+1623793258,47,42,intento,2,Mujer,2,ok,Albrecht Dürer,3,2,1660
+1623793260,47,42,intento,2,Mujer,2,fallo,Gustave Courbet,3,2,1630
+1623793262,47,42,intento,2,Mujer,2,fallo,El Greco,3,2,1600
+1623793264,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,1570
+1623793266,47,42,intento,2,Mujer,2,fallo,Andrei Rublev,3,2,1540
+1623793268,47,42,intento,2,Mujer,2,ok,Francisco Goya,3,2,1740
+1623793270,47,42,intento,2,Mujer,2,fallo,Gustave Courbet,3,2,1710
+1623793272,47,42,intento,2,Mujer,2,fallo,Hieronymus Bosch,3,2,1680
+1623793273,47,42,intento,2,Mujer,2,ok,Leonardo da Vinci,3,2,1880
+1623793276,47,42,intento,2,Mujer,2,ok,Gustave Courbet,3,2,2080
+1623793277,47,42,intento,2,Mujer,2,ok,Hieronymus Bosch,3,2,2280
+1623793279,47,42,intento,2,Mujer,2,ok,Andrei Rublev,3,2,2480
+1623793280,47,42,intento,2,Mujer,2,fallo,Camille Pissarro,3,2,2450
+1623793282,47,42,intento,2,Mujer,2,ok,Camille Pissarro,3,2,2650
+1623793282,47,42,intento,2,Mujer,2,ok,El Greco,3,2,2850
+1623793283,47,42,fin,2,Mujer,2,finalizada,,3,2,4950
+1623794745,50,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623794747,50,42,intento,2,Mujer,2,ok,Diego Velazquez,3,2,200
+1623794749,50,42,intento,2,Mujer,2,fallo,Gustave Courbet,3,2,170
+1623794750,50,42,intento,2,Mujer,2,fallo,Raphael,3,2,140
+1623794751,50,42,intento,2,Mujer,2,fallo,Jan van Eyck,3,2,110
+1623794752,50,42,intento,2,Mujer,2,fallo,El Greco,3,2,80
+1623794754,50,42,intento,2,Mujer,2,fallo,Leonardo da Vinci,3,2,50
+1623794758,50,42,intento,2,Mujer,2,fallo,Caravaggio,3,2,20
+1623794759,50,42,intento,2,Mujer,2,fallo,Michelangelo,3,2,0
+1623794760,50,42,intento,2,Mujer,2,fallo,Gustave Courbet,3,2,0
+1623794772,50,42,fin,2,Mujer,2,abandonada,,3,2,0
+1623794963,53,42,inicio_partida,2,Mujer,2,,,3,2,0
+1623794965,53,42,intento,2,Mujer,2,ok,Leonardo da Vinci,3,2,200
+1623794983,53,42,fin,2,Mujer,2,abandonada,,3,2,200
+1623799641,54,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799659,54,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623799682,55,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799688,55,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623799708,56,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799714,56,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623799767,57,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799773,57,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623799831,59,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799842,59,16,intento,2,Mujer,2,fallo,Andrei Rublev,1,2,0
+1623799862,59,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623799876,60,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799883,60,16,intento,2,Mujer,2,fallo,Sandro Botticelli,1,2,0
+1623799891,60,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,0
+1623799896,60,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,0
+1623799897,60,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,0
+1623799898,60,16,intento,2,Mujer,2,fallo,Sandro Botticelli,1,2,0
+1623799900,60,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,0
+1623799901,60,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,0
+1623799902,60,16,intento,2,Mujer,2,ok,Giotto di Bondone,1,2,200
+1623799904,60,16,intento,2,Mujer,2,fallo,Michelangelo,1,2,170
+1623799909,60,16,fin,2,Mujer,2,abandonada,,1,2,170
+1623799939,61,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623799943,61,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623800692,65,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623800698,65,16,intento,2,Mujer,2,ok,Andrei Rublev,1,2,200
+1623800709,65,16,fin,2,Mujer,2,abandonada,,1,2,200
+1623800742,66,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623800753,66,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623800780,67,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623800786,67,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623800875,69,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623800883,69,16,intento,2,Mujer,2,ok,Michelangelo,1,2,200
+1623800895,69,16,fin,2,Mujer,2,abandonada,,1,2,200
+1623800909,70,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623800919,70,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623800993,71,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801031,71,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623801042,72,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801049,72,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,0
+1623801055,72,16,intento,2,Mujer,2,fallo,Albrecht Dürer,1,2,0
+1623801061,72,16,intento,2,Mujer,2,fallo,Jan van Eyck,1,2,0
+1623801062,72,16,intento,2,Mujer,2,fallo,Albrecht Dürer,1,2,0
+1623801065,72,16,intento,2,Mujer,2,ok,Sandro Botticelli,1,2,200
+1623801091,72,16,intento,2,Mujer,2,ok,Albrecht Dürer,1,2,400
+1623801102,72,16,fin,2,Mujer,2,timeout,,1,2,400
+1623801134,73,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801145,73,16,intento,2,Mujer,2,fallo,Andrei Rublev,1,2,0
+1623801151,73,16,intento,2,Mujer,2,ok,Leonardo da Vinci,1,2,200
+1623801161,73,16,intento,2,Mujer,2,fallo,Hieronymus Bosch,1,2,170
+1623801172,73,16,intento,2,Mujer,2,fallo,Albrecht Dürer,1,2,140
+1623801179,73,16,intento,2,Mujer,2,fallo,Jan van Eyck,1,2,110
+1623801183,73,16,fin,2,Mujer,2,abandonada,,1,2,110
+1623801189,74,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801191,74,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623801222,75,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801231,75,16,intento,2,Mujer,2,fallo,Leonardo da Vinci,1,2,0
+1623801235,75,16,intento,2,Mujer,2,fallo,Andrei Rublev,1,2,0
+1623801238,75,16,intento,2,Mujer,2,ok,Leonardo da Vinci,1,2,200
+1623801239,75,16,intento,2,Mujer,2,ok,Andrei Rublev,1,2,400
+1623801245,75,16,fin,2,Mujer,2,abandonada,,1,2,400
+1623801283,76,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801324,76,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623801329,77,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801350,77,16,fin,2,Mujer,2,abandonada,,1,2,0
+1623801359,78,16,inicio_partida,2,Mujer,2,,,1,2,0
+1623801400,78,16,fin,2,Mujer,2,abandonada,,1,2,0
